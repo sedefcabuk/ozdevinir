@@ -105,6 +105,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
+    	
     	for(;;) {
 	        // Kullanıcıdan ifadeyi al
 	        Scanner scanner = new Scanner(System.in);
